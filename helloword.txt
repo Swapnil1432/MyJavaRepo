@@ -8,4 +8,5 @@ public static void main()
 {
   helloword hl= new helloword();
    hl.welcomeMethod();
+
 }
