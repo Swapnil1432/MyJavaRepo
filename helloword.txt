@@ -6,6 +6,6 @@ System.out.println("Helloword");
 }
 public static void main()
 {
-  
-
+  helloword hl= new helloword();
+   hl.myMethod();
 }
