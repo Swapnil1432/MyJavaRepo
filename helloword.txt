@@ -1,0 +1,6 @@
+class helloword{
+psvm()
+{
+  sop("hello");
+}
+}
