@@ -1,6 +1,6 @@
 class helloword{
 public static void main()
 {
-  sop("hello");
+  System.o.p("hello");
 }
 }
