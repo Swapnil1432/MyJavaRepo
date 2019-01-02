@@ -1,5 +1,5 @@
 class helloword{
-psvm()
+public static void main()
 {
   sop("hello");
 }
