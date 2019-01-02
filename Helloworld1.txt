@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+class Helloworld{
+static void welcomeMethod()
+{
+system.out.println("Hello World....!!!");
+}
+public static void main(String x[])
+{
+Helloworld ob=new HelloWorld();
+ob.welcomeMethod();
+}
+}
