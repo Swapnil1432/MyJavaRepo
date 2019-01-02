@@ -1,11 +1,11 @@
 class helloword{
 
-static void myMethod(){
+static void welcomeMethod(){
 
 System.out.println("Helloword");
 }
 public static void main()
 {
-  
-
+  helloword hl= new helloword();
+   hl.welcomeMethod();
 }
